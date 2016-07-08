@@ -1,5 +1,5 @@
 # SolarSystem2
-Android project that animates the solar system and is the solution of Exercise 1 for the SolarSystem project at http://eagle.phys.utk.edu/guidry/android/
+Android project that animates the solar system and is the solution of Exercise 1 for the SolarSystem project at http://eagle.phys.utk.edu/guidry/android/. The original project was written using Eclipse and was automatically imported into Android Studio.
 
 ## Prerequisites
 This project assumes the Gradle build system in Android Studio. It was targeted at Android 6.0 (API 23) but should be compatible with API 15 and beyond.  You will need
